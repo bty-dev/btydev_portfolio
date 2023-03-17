@@ -117,7 +117,6 @@ const experiences = [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
             "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
     {
@@ -130,7 +129,6 @@ const experiences = [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
             "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
     {
@@ -143,7 +141,6 @@ const experiences = [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
             "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
 ];
@@ -177,20 +174,20 @@ const testimonials = [
 
 const projects = [
     {
-        name: "Car Rent",
+        name: "Hiring system",
         description:
-            "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+            "Recruitment system with a focus on speed.",
         tags: [
             {
                 name: "react",
                 color: "blue-text-gradient",
             },
             {
-                name: "mongodb",
+                name: "restapi",
                 color: "green-text-gradient",
             },
             {
-                name: "tailwind",
+                name: "scss",
                 color: "pink-text-gradient",
             },
         ],
@@ -198,9 +195,9 @@ const projects = [
         source_code_link: "https://github.com/",
     },
     {
-        name: "Job IT",
+        name: "Portal for product store",
         description:
-            "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+            "Portal for store employees \"Korzinka\".",
         tags: [
             {
                 name: "react",
@@ -219,20 +216,16 @@ const projects = [
         source_code_link: "https://github.com/",
     },
     {
-        name: "Trip Guide",
+        name: "Personal portfolio",
         description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+            "Сreated to demonstrate skills and abilities.",
         tags: [
             {
-                name: "nextjs",
+                name: "react",
                 color: "blue-text-gradient",
             },
             {
-                name: "supabase",
-                color: "green-text-gradient",
-            },
-            {
-                name: "css",
+                name: "tailwind",
                 color: "pink-text-gradient",
             },
         ],
